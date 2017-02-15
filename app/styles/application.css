@@ -1,0 +1,37 @@
+.brunch {
+  font-family: -apple-system, Sans-Serif;
+  text-align: center;
+  font-size: 24pt;
+  color: #3f894a;
+}
+
+a:hover {
+  color: #27552e;
+}
+
+h5 > a {
+  text-decoration: underline;
+}
+
+* {
+ box-sizing: border-box;
+}
+#content {
+ width: 480px;
+ margin: 0 auto;
+}
+.editor {
+ border: 1px solid grey;
+ padding: 6px;
+}
+
+.DraftEditor-root {
+  border: 1px solid;
+}
+
+.superFancyBlockquote {
+  color: #999;
+  font-family: 'Hoefler Text', Georgia, serif;
+  font-style: italic;
+  text-align: center;
+}

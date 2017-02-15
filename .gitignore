@@ -12,6 +12,8 @@ $RECYCLE.BIN/
 *.cab
 *.msi
 *.msm
+
+node_modules
 *.msp
 
 # Windows shortcuts
